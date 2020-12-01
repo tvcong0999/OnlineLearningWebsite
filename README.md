@@ -2,4 +2,4 @@
 Views:
 - Nguyen Huu Duy: home, about
 - Ngoc Minh Duy:
-- Tran Vu Cong:
+- Tran Vu Cong: course, tutor
